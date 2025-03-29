@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-29 19:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-29 18:52:16 +0000"
@@ -38,6 +44,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-29 19:02:08 +0000",
+      "minecraft:creeper": "2025-03-29 19:05:13 +0000",
       "minecraft:zombie": "2025-03-29 19:02:23 +0000"
     },
     "done": false
@@ -45,6 +52,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-29 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "trueprimepiece:move_3unlock": {
+    "criteria": {
+      "move_3unlock": "2025-03-29 19:11:32 +0000"
     },
     "done": true
   },
