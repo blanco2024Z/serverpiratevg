@@ -1501,3 +1501,26 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 19:31:54.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
 [29Mar2025 19:31:54.180] [Server thread/INFO] [tac/]: PENDING
 [29Mar2025 19:31:54.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.trueprimepiece.projectile_marinebullet'/238943, l='ServerLevel[PIRATAZ - MAPA v2 1.16.5 y 1.17]', x=-18.26, y=65.81, z=296.97]
+[29Mar2025 19:35:54.629] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
+[29Mar2025 19:35:54.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 19:36:21.522] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58cafe7d
+[29Mar2025 19:36:21.526] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:59561] logged in with entity id 256421 at (-77.62636317099276, 96.16457857369669, 198.81906585981147)
+[29Mar2025 19:36:21.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 19:36:21.534] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 19:36:30.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELBLANglitch: Stopping the server]
+[29Mar2025 19:36:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 19:36:30.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 19:36:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 19:36:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PIRATAZ - MAPA v2 1.16.5 y 1.17]'/minecraft:overworld
+[29Mar2025 19:36:30.800] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[29Mar2025 19:36:31.738] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 19:36:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PIRATAZ - MAPA v2 1.16.5 y 1.17]'/minecraft:the_nether
+[29Mar2025 19:36:31.739] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 19:36:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PIRATAZ - MAPA v2 1.16.5 y 1.17]'/minecraft:the_end
+[29Mar2025 19:36:31.740] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 19:36:31.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PIRATAZ - MAPA v2 1.16.5 y 1.17]'/trueprimepiece:d_miror_world
+[29Mar2025 19:36:31.740] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (d_miror_world): All chunks are saved
+[29Mar2025 19:36:31.763] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 19:36:31.788] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 19:36:31.788] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 19:36:31.789] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (d_miror_world): All chunks are saved
