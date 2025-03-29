@@ -1429,3 +1429,12 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 18:44:08.287] [Server thread/WARN] [net.minecraft.nbt.NBTUtil/]: Unable to read property: layers with value: 0 for blockstate: {Properties:{layers:"0"},Name:"minecraft:snow"}
 [29Mar2025 18:44:08.941] [Server thread/WARN] [net.minecraft.nbt.NBTUtil/]: Unable to read property: layers with value: 0 for blockstate: {Properties:{layers:"0"},Name:"minecraft:snow"}
 [29Mar2025 18:44:08.944] [Server thread/WARN] [net.minecraft.nbt.NBTUtil/]: Unable to read property: layers with value: 0 for blockstate: {Properties:{layers:"0"},Name:"minecraft:snow"}
+[29Mar2025 18:46:10.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELBLANglitch: Set the weather to clear]
+[29Mar2025 18:47:17.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELBLANglitch: Gamerule keepInventory is now set to: true]
+[29Mar2025 18:50:48.578] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Disconnected
+[29Mar2025 18:50:48.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 18:50:54.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@470e495f
+[29Mar2025 18:50:54.532] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:56071] logged in with entity id 179509 at (-79.5, 67.0, 356.5)
+[29Mar2025 18:50:54.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 18:50:54.542] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 18:51:42.731] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
