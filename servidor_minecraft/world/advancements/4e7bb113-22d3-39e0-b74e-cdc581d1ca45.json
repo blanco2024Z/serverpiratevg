@@ -55,12 +55,6 @@
     },
     "done": true
   },
-  "trueprimepiece:move_3unlock": {
-    "criteria": {
-      "move_3unlock": "2025-03-29 19:11:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-29 19:00:58 +0000"
@@ -70,6 +64,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-29 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "trueprimepiece:move_3unlock": {
+    "criteria": {
+      "move_3unlock": "2025-03-29 19:11:32 +0000"
     },
     "done": true
   },
@@ -87,15 +87,15 @@
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-29 19:01:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-29 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-29 19:01:00 +0000"
     },
     "done": true
   },

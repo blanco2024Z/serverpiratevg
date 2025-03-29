@@ -1463,3 +1463,11 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 19:11:32.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 7.0
 [29Mar2025 19:11:32.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
 [29Mar2025 19:11:32.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch has reached the goal [Move 3 unlock]
+[29Mar2025 19:20:47.427] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
+[29Mar2025 19:20:47.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 19:21:08.922] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6b1451d2
+[29Mar2025 19:21:08.927] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:57523] logged in with entity id 232705 at (-95.79845300889095, 74.0, 257.55720642808257)
+[29Mar2025 19:21:08.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 19:21:08.935] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 19:24:39.327] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
+[29Mar2025 19:24:39.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
