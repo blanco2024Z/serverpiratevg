@@ -1443,3 +1443,18 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 18:57:07.830] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
 [29Mar2025 18:57:22.826] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 2.0
 [29Mar2025 18:57:22.826] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
+[29Mar2025 18:57:58.427] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 3.0
+[29Mar2025 18:57:58.428] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
+[29Mar2025 18:57:58.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch has reached the goal [Move 2 unlock]
+[29Mar2025 18:59:10.226] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
+[29Mar2025 18:59:10.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 18:59:30.420] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7f3726c1
+[29Mar2025 18:59:30.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:58635] logged in with entity id 188074 at (-27.16348771196519, 71.0, 266.50357093703354)
+[29Mar2025 18:59:30.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 18:59:30.432] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 19:01:00.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch has made the advancement [Sweet Dreams]
+[29Mar2025 19:02:08.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch has made the advancement [Monster Hunter]
+[29Mar2025 19:02:08.276] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 4.0
+[29Mar2025 19:02:08.277] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
+[29Mar2025 19:02:46.529] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 5.0
+[29Mar2025 19:02:46.529] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
