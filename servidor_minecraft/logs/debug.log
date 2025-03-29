@@ -5746,3 +5746,8 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 18:51:42.731] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [29Mar2025 18:53:11.865] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save PIRATAZ - MAPA v2 1.16.5 y 1.17
 [29Mar2025 18:53:11.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete PIRATAZ - MAPA v2 1.16.5 y 1.17
+[29Mar2025 18:54:41.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELBLANglitch: Set the weather to clear]
+[29Mar2025 18:57:07.829] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 1.0
+[29Mar2025 18:57:07.830] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
+[29Mar2025 18:57:22.826] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 2.0
+[29Mar2025 18:57:22.826] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
