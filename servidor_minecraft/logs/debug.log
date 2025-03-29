@@ -5894,3 +5894,5 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 19:02:46.529] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
 [29Mar2025 19:03:11.796] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save PIRATAZ - MAPA v2 1.16.5 y 1.17
 [29Mar2025 19:03:11.800] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete PIRATAZ - MAPA v2 1.16.5 y 1.17
+[29Mar2025 19:05:17.178] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:66]: 6.0
+[29Mar2025 19:05:17.178] [Server thread/INFO] [STDOUT/]: [net.mcreator.trueprimepiece.procedures.LevelUpPlayerProcedure:executeProcedure:69]: 25.0
