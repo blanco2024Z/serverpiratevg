@@ -1471,3 +1471,14 @@ java.net.BindException: Address already in use (Bind failed)
 [29Mar2025 19:21:08.935] [Server thread/INFO] [tac/]: PENDING
 [29Mar2025 19:24:39.327] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
 [29Mar2025 19:24:39.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 19:25:10.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f608e26
+[29Mar2025 19:25:10.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:46715] logged in with entity id 235790 at (-96.44500255130983, 74.0, 246.28218548949397)
+[29Mar2025 19:25:10.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 19:25:10.984] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 19:25:56.177] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ELBLANglitch lost connection: Timed out
+[29Mar2025 19:25:56.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch left the game
+[29Mar2025 19:26:17.171] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@576e30ef
+[29Mar2025 19:26:17.175] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ELBLANglitch[/127.35.173.30:38603] logged in with entity id 236180 at (-101.7999810068127, 75.13583556389138, 247.68810141593661)
+[29Mar2025 19:26:17.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch joined the game
+[29Mar2025 19:26:17.182] [Server thread/INFO] [tac/]: PENDING
+[29Mar2025 19:27:27.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELBLANglitch has made the advancement [Stone Age]
